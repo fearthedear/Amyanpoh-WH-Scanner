@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-tasks-9.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/dab2459c8f1887de78ac9df9e65ee1d72dfbd655/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/dab2459c8f1887de78ac9df9e65ee1d72dfbd655/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

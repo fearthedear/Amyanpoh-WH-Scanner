@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/layout-v17/activity_main.xml",
+        "source": "/Users/linus/Github/AmyanpohWHscanner/app/src/main/res/layout-v17/activity_main.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/layout-v17/activity_main.xml",
+        "source": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/src/main/res/layout-v17/activity_main.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/linus/Github/AmyanpohWHscanner/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

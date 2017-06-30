@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_df423ed08070f2457542b6d10f0c685da511d0b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_65d2edb56e3da7bbbc62915237688c0a428e4910/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/7023823b1837b2a443cf5a031339c6bf50ae6914/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_a3bedbb3229bb817a20d7752d4c12e5a6ee873c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_160c372190c14bc3ad759af8e61ee31c9d803def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/okhttp-3.8.1_412fca2f1fc4944c65a348a23d0a1388aeed9a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_b564b89ea7d13f8ca57c9b65d32ecf38253d4aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/2c83064b5404ce03b6e6646ddb0692e8a9546a53/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_747612077735f75fa63525dc42060d7be76c2edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/060dc236d29fa7f5ce54fa008d686819b435ffa6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_de9e72cde19daaa70399aa03ff113f86c8e81748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/897946679328866197de73333fb6592960ebb69b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_5074cc9fde06b7aaa391251194020dd082e5e462.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="481ed84db1a1de69ad94b03fe77b84050bee911c">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1caa106c6448b62f855e087c3cef91f8415d04e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/dab2459c8f1887de78ac9df9e65ee1d72dfbd655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_81635593e80a2b4a19f1b747310ee958d2758937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c2b192b98920529d78eaa9fff39ab1cc0163c6ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/1cc4176448998a8cef6bdbbde69eb3758c71c51f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_2e3f2a204a782f35ebec6f9b3998be2e39addb96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/6dcdd59242e7d182a47c7a15104ab112b7e63d70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_ed5ed8c69cd25a07dd4c270fe7ba6157227bb9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/2c83064b5404ce03b6e6646ddb0692e8a9546a53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_568353ed3ff945ac651cbd31b5957e953821b711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/e864d3d7f87cff85ecadf00f12ee69ad7c1026fd/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e7c48d8b962f202df2700a8be7b1949ab1d8df7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/1e615cf3bb69c626dcc864d505b9ac82bf40f65e/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3e8367d02246e3e3fb45071b259c267b7de0009d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/e864d3d7f87cff85ecadf00f12ee69ad7c1026fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_d87fa28470f0100d0f07b86c626ebd07e8239a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/897946679328866197de73333fb6592960ebb69b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_bcedd5ef902033b1d29e63282e1dc546a3bda0b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/365ebe5b6b774f05c9ee056d9925f711a89fe757/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_3bc6a91b36ada12204dea513e86966dbec7cca64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/342e9755d96bc44bebb599df66f4462f42514141/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_9aeeda779b0332a1af9b197e8d2376db9cf30b5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/a5b5c5e340b102af029d1b1b1f206ad53cd503ec/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4fb413000b826894fb3bfbccf8d66c208698bbc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/20b1b779b1e781231cb3f64710e0784501e2d862/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_f334ca25a4e88d86d7ef8d47549d6d4525fc7b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/1e615cf3bb69c626dcc864d505b9ac82bf40f65e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_763e9e68dd9acba1c6b625c0f10e9f74f28f6bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/linus/.android/build-cache/a5b5c5e340b102af029d1b1b1f206ad53cd503ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/pre-dexed/debug/classes_fe5563102aaa043de2bde8cac8aacd0471668bfe.jar" />
+    </item>
+
+</items>

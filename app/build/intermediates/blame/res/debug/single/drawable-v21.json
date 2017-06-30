@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/linus/.android/build-cache/b49a17807b73b784e2a90c7c3e7740e274f4a9fb/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

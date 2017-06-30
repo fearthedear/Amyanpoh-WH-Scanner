@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/AmyanpohWHscanner/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/linus/Github/android-vision/visionSamples/Barcode Vision Tracker/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/linus/.android/build-cache/c6c6399b9f2ca1f2417e72f864de1943ce1986a0/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]
